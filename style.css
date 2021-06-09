@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to left, lime, hotpink, orange, blue);
+    color: navy;
+}
+.heading{
+    width: 80%;
+    height: 6%;
+    font-size: 22px;
+    border-style: dotted;
+    border-width: 5px;
+}
+.all_objects, #object_result_name, #accuracy_result_percent{
+    color:maroon;
+}
+#camera{
+    border: 4px groove mediumseagreen;
+    width: 350px;
+    height: 300px;
+}
